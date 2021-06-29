@@ -5,7 +5,7 @@
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-class GFG {
+class AhoCorasick {
 
 	// Max number of states in the matching
 	// machine. Should be equal to the sum
